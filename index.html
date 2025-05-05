@@ -6,7 +6,7 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="./img/Logo P1D.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="./assets/img/Logo P1D.jpg" type="image/x-icon">
     <link rel="stylesheet" href="assets/css/styles.css">
 
     <!-- =====BOX ICONS===== -->
@@ -82,7 +82,7 @@
 
             <div class="about__container bd-grid">
                 <div class="about__img">
-                    <img src="./img/Perfil nova.jpg" alt="">
+                    <img src="./assets/img/Perfil nova.jpg" alt="">
                 </div>
 
                 <div>
@@ -159,40 +159,31 @@
                 </div>
 
                 <div>
-                    <img src="./img/Mesa de animador.jpg" alt="" class="skills__img">
+                    <img src="./assets/img/Mesa de animador.jpg" alt="" class="skills__img">
                 </div>
             </div>
         </section>
 
         <!--===== WORK =====-->
         <section class="work section" id="work">
-            <h2 class="section-title">Work</h2>
+            <h2 class="section-title">Trabalhos</h2>
 
             <div class="work__container bd-grid">
                 <a href="https://www.youtube.com/@pedro1dog498" target="_blank" class="work__img">
-                    <img src="./img/Canal no youtube.png" alt="">
+                    <img src="./assets/img/Canal no youtube.png" alt="">
                 </a>
                 <a href="tiktok.com/@pedro1dog" target="_blank" class="work__img">
-                    <img src="./img/Meu tiktok.png" alt="">
+                    <img src="./assets/img/Meu tiktok.png" alt="">
                 </a>
                 <a href="https://www.instagram.com/pedroedog?igsh=dHdsNXM2MG9rdGJP" target="_blank" class="work__img">
-                    <img src="./img/Meu instagram.png" alt="">
-                </a>
-                <a href="https://kravmagactbelts.web.app/" target="_blank" class="work__img">
-                    <img src="assets/img/site 4.png" alt="">
-                </a>
-                <a href="https://casa-do-planejado.web.app/" target="_blank" class="work__img">
-                    <img src="assets/img/site 3.png" alt="">
-                </a>
-                <a href="https://reviews-book.web.app/" target="_blank" class="work__img">
-                    <img src="assets/img/site2.png" alt="">
+                    <img src="./assets/img/Meu instagram.png" alt="">
                 </a>
             </div>
         </section>
 
         <!--===== CONTACT =====-->
         <section class="contact section" id="contact">
-            <h2 class="section-title">Contact</h2>
+            <h2 class="section-title">Contato</h2>
 
             <div class="contact__container bd-grid">
                 <form action="https://formsubmit.co/seuemail" method="post" data-form
