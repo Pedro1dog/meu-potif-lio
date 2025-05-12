@@ -54,8 +54,6 @@
                         class='bx bxl-youtube'></i></a>
                 <a href="https://www.instagram.com/pedroedog?igsh=dHdsNXM2MG9rdGJP" target="_blank" class="home__social-icon"><i
                         class='bx bxl-instagram'></i></a>
-                <a href="tiktok.com/@pedro1dog" target="_blank"
-                    class="home__social-icon"><i class='bx bxl-tiktok'></i></a>
                 <a href="https://github.com/" target="_blank" class="home__social-icon"><i
                         class='bx bxl-github'></i></a>
             </div>
@@ -70,7 +68,7 @@
                     <g mask="url(#mask0)">
                         <path
                             d="M9.19024 145.964C34.0253 76.5814 114.865 54.7299 184.111 29.4823C245.804 6.98884 311.86 -14.9503 370.735 14.143C431.207 44.026 467.948 107.508 477.191 174.311C485.897 237.229 454.931 294.377 416.506 344.954C373.74 401.245 326.068 462.801 255.442 466.189C179.416 469.835 111.552 422.137 65.1576 361.805C17.4835 299.81 -17.1617 219.583 9.19024 145.964Z" />
-                        <image class="home__blob-img" x="50" y="60" href="assets/img/perfil1.png" />
+                        <image class="home__blob-img" x="50" y="70" href="./assets/img/Arquivo de Pedro Henrique.webp" />
                     </g>
                 </svg>
             </div>
@@ -110,20 +108,18 @@
                     </p>
                     <div class="skills__data">
                         <div class="skills__names">
-                            <i class='bx bxl-html5 skills__icon'></i>
-                            <span class="skills__name">HTML5</span>
+                            <span class="skills__name">DESENHO CARTOON</span>
                         </div>
                         <div class="skills__bar skills__html">
 
                         </div>
                         <div>
-                            <span class="skills__percentage">95%</span>
+                            <span class="skills__percentage">90%</span>
                         </div>
                     </div>
                     <div class="skills__data">
                         <div class="skills__names">
-                            <i class='bx bxl-css3 skills__icon'></i>
-                            <span class="skills__name">CSS3</span>
+                            <span class="skills__name">ANIMAÇÕES SHORTS</span>
                         </div>
                         <div class="skills__bar skills__css">
 
@@ -134,20 +130,18 @@
                     </div>
                     <div class="skills__data">
                         <div class="skills__names">
-                            <i class='bx bxl-javascript skills__icon'></i>
-                            <span class="skills__name">JAVASCRIPT</span>
+                            <span class="skills__name">DESENHO ESTILO SIMPLES</span>
                         </div>
                         <div class="skills__bar skills__js">
 
                         </div>
                         <div>
-                            <span class="skills__percentage">65%</span>
+                            <span class="skills__percentage">90%</span>
                         </div>
                     </div>
                     <div class="skills__data">
                         <div class="skills__names">
-                            <i class='bx bxs-paint skills__icon'></i>
-                            <span class="skills__name">UX/UI</span>
+                            <span class="skills__name">DESENHO DIGITAL</span>
                         </div>
                         <div class="skills__bar skills__ux">
 
@@ -172,7 +166,7 @@
                 <a href="https://www.youtube.com/@pedro1dog498" target="_blank" class="work__img">
                     <img src="./assets/img/Canal no youtube.png" alt="">
                 </a>
-                <a href="tiktok.com/@pedro1dog" target="_blank" class="work__img">
+                <a href="https://www.tiktok.com/@pedro1dog" target="_blank" class="work__img">
                     <img src="./assets/img/Meu tiktok.png" alt="">
                 </a>
                 <a href="https://www.instagram.com/pedroedog?igsh=dHdsNXM2MG9rdGJP" target="_blank" class="work__img">
@@ -188,7 +182,7 @@
             <div class="contact__container bd-grid">
                 <form action="https://formsubmit.co/seuemail" method="post" data-form
                     class="contact__form">
-                    <input type="text" placeholder="Name" id="nome" required class="contact__input">
+                    <input type="text" placeholder="Nome" id="nome" required class="contact__input">
                     <input type="mail" placeholder="Email" id="email" required class="contact__input">
                     <textarea name="Mensagem" id="mensagem" cols="0" rows="10" class="contact__input"></textarea>
                     <button type="submit" data-button class="contact__button button">Enviar</a>
