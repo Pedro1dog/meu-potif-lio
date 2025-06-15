@@ -43,7 +43,7 @@
         <!--===== HOME =====-->
         <section class="home bd-grid" id="home">
             <div class="home__data">
-                <h1 class="home__title">Bem Vindo<br><span class="home__title-color"> ao meu</span><br> potifólio</h1>
+                <h1 class="home__title">Bem Vindo<br><span class="home__title-color"> ao meu</span><br> portifólio</h1>
 
                 <a href="https://api.whatsapp.com/send?phone=5513982051256&text=Ol%C3%A1!Vi%20seu%20Portifolio!%20Podemos%20Conversar?"
                     target="_blank" class="button">Contato</a>
@@ -101,9 +101,8 @@
                     <h2 class="skills__subtitle">Habilidades profissionais</h2>
                     <p class="skills__text">
                         ➩ Experiência com desenhos simples.<br>
-                        ➩ Famialiarizado uso dos materiais como caneta touch e celular, (ainda a planejando o uso de tablet).<br>
-                        ➩ Uso o app Flipaclip para produzir as animações, (por enquanto fazendo uso da manca d´agua).<br>
-                        ➩ Os pequenos trabalhos pessois são finalizados por tempo indeterminado.<br>
+                        ➩ Familiarizado com o uso dos materiais como  caneta touch e celular.<br>
+                        ➩ Faço uso do Flipaclip para produzir as animações.<br>
                         ➩ Conhecimento em desenhos cartonizados.<br>
                     </p>
                     <div class="skills__data">
